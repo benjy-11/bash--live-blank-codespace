@@ -1,3 +1,4 @@
 #!/bin/bash
 
-echo "Hello GISC 605"
+echo "Gello please" $1
+
